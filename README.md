@@ -1,2 +1,2 @@
 # cramerton_meeting_minutes
-Auto-Transcriber for baord meetings.
+Auto-Transcriber for board meetings.
